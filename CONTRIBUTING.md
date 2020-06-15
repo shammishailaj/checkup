@@ -8,14 +8,14 @@ contribution accepted.
 
 # Certificate of Origin
 
-By contributing to this project you agree to the Developer Certificate of Origin
-(DCO). This document was created by the Linux Kernel community and is a simple
-statement that you, as a contributor, have the legal right to make the
+By contributing to this project you agree to the [Developer Certificate of Origin
+(DCO)](https://developercertificate.org/). This document was created by the Linux Kernel community
+and is a simple statement that you, as a contributor, have the legal right to make the
 contribution. See the [DCO](DCO) file for details.
 
 ## Getting Started
 
-You'll need Go 1.8 or newer installed.
+You'll need Go 1.10 or newer installed.
 
 1. [Fork this repo](https://github.com/sourcegraph/checkup). This makes a copy of the code you can write to.
 2. If you don't already have this repo (sourcegraph/checkup.git) repo on your computer, get it with `go get github.com/sourcegraph/checkup/cmd/checkup`.
